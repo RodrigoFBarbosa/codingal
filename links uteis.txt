@@ -1,0 +1,5 @@
+https://www.w3schools.com/html/default.asp - documentação HTML
+https://developer.mozilla.org/pt-BR/docs/Glossary/Semantics - semanticas HTML
+https://www.w3schools.com/css/css_intro.asp - documentação CSS
+https://color.adobe.com/pt/create/color-wheel - roda de cores adobe
+https://colorhunt.co/ - color hunt
