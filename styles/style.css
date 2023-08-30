@@ -56,6 +56,14 @@ body {
   border-radius: 3px;
 }
 
+.imagem__sobremim {
+  max-width: 300px;
+  max-height: 300px;
+  width: 250px;
+  height: 300px;
+  border-radius: 3px;
+}
+
 .apresentacao__conteudo {
   width: 615px;
   display: flex;
