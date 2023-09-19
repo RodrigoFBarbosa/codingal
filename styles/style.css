@@ -90,6 +90,16 @@ body {
   font-family: var(--fonte-primaria);
 }
 
+.apresentacao__conteudo__subtitulo {
+  font-size: 20px;
+  font-family: var(--fonte-primaria);
+}
+
+.apresentacao__conteudo__subtitulo__dois {
+  font-size: 16px;
+  font-family: var(--fonte-primaria);
+}
+
 .marcação-titulo {
   color: var(--cor-terciaria);
 }
@@ -97,6 +107,14 @@ body {
 .apresentacao__conteudo__texto {
   font-size: 24px;
   line-height: 36px;
+  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+  color: var();
+}
+
+.apresentacao__conteudo__texto__subtitulo {
+  font-size: 18px;
+  line-height: 30px;
   font-weight: 400;
   font-family: "Montserrat", sans-serif;
   color: var();
